@@ -237,10 +237,10 @@
 
     /* Index/Main page Mobile */
     .main-page {
-        font-size: 25px;
+        font-size: 20px;
         text-align: center;
         position: relative;
-        top: 370px;
+        top: 250px;
     }
 
     .main-page h1 {
@@ -278,9 +278,9 @@
     /* About Mobile */
     .about {
         text-align: center;
-        font-size: large;
+        font-size: 15px;
         position: relative;
-        top: 1110px;
+        top: 1000px;
     }
 
     .about h2 {
@@ -292,7 +292,7 @@
         position: relative;
         top: -400px;
         padding: 15px;
-        font-size: 23px;
+        font-size: 20px;
     }
 
     .about div button {
@@ -302,8 +302,8 @@
         left: 50%;
         transform: translate(-50%, 0%);
         padding: 0px 20px;
-        margin-top: 50px;
-        font-size: 25px;
+        margin-top: 30px;
+        font-size: 20px;
 
         background-color: rgb(245, 178, 133);
         border: none;
@@ -392,7 +392,7 @@
         font-size: 20px;
         text-align: center;
         position: relative;
-        top: 300px;
+        top: 220px;
     }
 
     .contact h1 {

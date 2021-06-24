@@ -1,3 +1,3 @@
 function learnMore() {
-    scrollTo(0, 900);
+    scrollTo(0, 800);
 }
